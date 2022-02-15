@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\exerciciolist.exe
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\exerciciolist.deps.json
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\exerciciolist.runtimeconfig.json
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\exerciciolist.dll
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\ref\exerciciolist.dll
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\bin\Debug\net6.0\exerciciolist.pdb
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.dll
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\ref\exerciciolist.dll
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.pdb
+C:\Users\Usuario\Desktop\visualstudio\exerciciolist\exerciciolist\obj\Debug\net6.0\exerciciolist.genruntimeconfig.cache
